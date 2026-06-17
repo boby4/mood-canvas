@@ -2,6 +2,8 @@
 
 > 用视觉记录情绪，而不是文字。一个基于物理场的情绪可视化系统。
 
+🌐 在线体验：[mood-canvas-delta.vercel.app](https://mood-canvas-delta.vercel.app/)
+
 ## 核心理念
 
 MoodCanvas 不是传统的情绪记录工具，而是一个**情绪物理模拟器**：
